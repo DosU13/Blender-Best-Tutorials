@@ -1,37 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Blender Best Tutorials
 
-You can use the [editor on GitHub](https://github.com/DOSLAN/Blender-Best-Tutorials/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+When I started learning Blender, I have jumped from tutorial to tutorial, and gleam what I could from each. Which tutorial is overwhelming for beginners, which tutorial contains useless things, which tutorial is can be finished in a day, and will show you how to make your first scene.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DOSLAN/Blender-Best-Tutorials/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+And so I have created a site where I stored all best tutorials that I have ever seen.
+[link] url="https://doslan.github.io/Blender-Best-Tutorials/index.html"
