@@ -6,4 +6,4 @@ And so I have created a site where I stored all best tutorials that I have ever 
 
 https://doslan.github.io/Blender-Best-Tutorials/index.html
 
-![Alt text](/relative/captures/a.jpg?raw=true "Optional Title")
+![Alt text](/relative/Captures/1.png?raw=true "Optional Title")
