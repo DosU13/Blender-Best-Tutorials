@@ -1,0 +1,101 @@
+@font-face {
+    font-family: 'Built_titling';
+    src: url("../fonts/built titling sb.ttf")
+    format('truetype')
+}
+
+@font-face {
+    font-family: 'Chapaza';
+    src: url("../fonts/Chapaza.ttf")
+    format('truetype');
+}
+
+/* Add a gray background color and some padding to the footer */
+footer {
+    background-color: #f2f2f2;
+    padding: 25px;
+}
+
+.well{
+    vertical-align: center;
+    horiz-align: center;
+}
+
+.carousel-inner img {
+    width: 100%; /* Set width to 100% */
+    min-height: 200px;
+}
+
+/* Hide the carousel text when the screen is less than 600 pixels wide */
+@media (max-width: 600px) {
+    .carousel-caption {
+        display: none;
+    }
+}
+
+.logo_img{
+    height: 50px;
+    padding: 5px;
+}
+
+.tutorials{
+    font-family: 'Chapaza' , serif;
+    color: black;
+}
+
+h2, h1, h4{
+    color: black;
+}
+
+h3{
+    font-family: 'Built_titling', monospace;
+    color : black;
+    letter-spacing: 1px;
+}
+
+.hoverAble:hover{
+    font-size: 104%;
+    -ms-transform: scale(1.03); /* IE 9 */
+    -webkit-transform: scale(1.03); /* Safari 3-8 */
+    transform: scale(1.03);
+}
+
+.img-responsive:hover{
+    filter: contrast(120%) brightness(120%) saturate(120%) drop-shadow(0px -5px 8px gray);
+}
+
+/*a, a:hover ,a:active{*/
+/*    color: black;*/
+/*    text-decoration: none;*/
+/*}*/
+
+.fa{
+    color: red;
+}
+
+.blender_links{
+    text-color: black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
